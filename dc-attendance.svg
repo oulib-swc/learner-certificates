@@ -1301,12 +1301,17 @@
          y="143.60001"
          font-size="14"
          id="tspan6274"
-         style="font-size:14px;font-family:ArialMT;fill:#808285">Date of Award: {{date}}</tspan><tspan
+         style="font-size:14px;fill:#808285;font-family:ArialMT">Date of Workshop: {{date}}</tspan><tspan
          x="0"
          y="169.2"
          font-size="14"
          id="tspan6276"
-         style="font-size:14px;font-family:ArialMT;fill:#808285">Certified by:  {{instructor}}</tspan></text>
+         style="font-size:14px;fill:#808285;font-family:ArialMT">Certified by:  {{instructor}}</tspan>><tspan
+         x="0"
+         y="194.2"
+         font-size="14"
+         id="tspan6278"
+         style="font-size:14px;fill:#808285;font-family:ArialMT">Organization: University of Oklahoma Libraries</tspan></text>
 </g><g
      id="g3024" /><g
      id="g3048" /><g
